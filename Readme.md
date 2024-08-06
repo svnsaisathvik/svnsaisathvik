@@ -9,7 +9,7 @@ I'm an aspiring software developer with a passion for creating innovative soluti
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)
+![C]([https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg](https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png))
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
