@@ -1,7 +1,7 @@
 
 # Hello, I'm Sathvik! 👋
 
-I'm an aspiring software developer with a passion for creating innovative solutions and continuously learning new technologies. Currently, I'm pursuing a B.Tech degree and actively working on various software projects.
+I'm an aspiring software developer with a passion for creating innovative solutions and continuously learning new technologies. Currently, I'm pursuing a Integrated M.Tech degree from IIIT Banglore and actively working on various software projects.
 
 ## 🔧 Technologies & Tools
 
