@@ -171,7 +171,7 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svnsaisathvik&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisathviksvn&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" width="40%" />
 </p>
 
 <br/>
