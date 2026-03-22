@@ -24,16 +24,7 @@
 
 <br/>
 
-<!-- Visitor Map -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/svnsaisathvik/count.svg" alt="Visitor Count" />
-</p>
 
-<p align="center">
-  <img src="https://visitmap.vercel.app/api/badge/svnsaisathvik/default?style=for-the-badge" alt="Visitor Map" />
-</p>
-
-<br/>
 
 ---
 
