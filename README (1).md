@@ -24,6 +24,17 @@
 
 <br/>
 
+<!-- Visitor Map -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/svnsaisathvik/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://visitmap.vercel.app/api/badge/svnsaisathvik/default?style=for-the-badge" alt="Visitor Map" />
+</p>
+
+<br/>
+
 ---
 
 <br/>
@@ -36,6 +47,13 @@ I'm a 3rd year **Integrated M.Tech CSE** student at **IIIT Bangalore**, passiona
 - ⚡ Building full-stack apps with **React + Spring Boot**
 - 🧠 Interested in **NLP**, **Computer Vision**, and **Sustainable Tech**
 - 🏆 Active hackathon participant — Adobe, ML Fiesta, GSC & more
+
+<br/>
+
+<!-- Currently Working On -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔨%20Currently%20Working%20On-Cloud%20Removal%20%7C%20Satellite%20Imagery%20with%20Deep%20Learning-7C3AED?style=for-the-badge&logoColor=white" />
+</p>
 
 <br/>
 
@@ -155,6 +173,42 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svnsaisathvik&layout=donut&theme=tokyonight&hide_border=false&border_radius=12&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&langs_count=8" width="40%" />
 </p>
+
+<br/>
+
+---
+
+<br/>
+
+## 💻 LeetCode Stats
+
+<br/>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/svnsaisathvik?theme=dark&font=Fira%20Code&ext=contest&border=1&border_radius=12&width=500" alt="LeetCode Stats" />
+</p>
+
+> ⚠️ **Note:** Update `svnsaisathvik` above with your actual LeetCode username if it's different!
+
+<br/>
+
+---
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svnsaisathvik/svnsaisathvik/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svnsaisathvik/svnsaisathvik/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/svnsaisathvik/svnsaisathvik/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> ⚠️ **Note:** The snake won't appear until you set up the GitHub Action below!
 
 <br/>
 
