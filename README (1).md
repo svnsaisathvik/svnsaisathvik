@@ -197,7 +197,6 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
   </picture>
 </p>
 
-> ⚠️ **Note:** The snake won't appear until you set up the GitHub Action below!
 
 <br/>
 
