@@ -185,10 +185,18 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
 
 <br/>
 
-## 🐍 Contribution Snake
+## ⚡ My GitHub Journey
 
 <br/>
 
+<!-- Contribution Heatmap with dates -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/A78BFA/svnsaisathvik" alt="Contribution Heatmap" width="100%" />
+</p>
+
+<br/>
+
+<!-- Snake animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svnsaisathvik/svnsaisathvik/output/github-contribution-grid-snake-dark.svg" />
@@ -196,7 +204,6 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
     <img alt="github-snake" src="https://raw.githubusercontent.com/svnsaisathvik/svnsaisathvik/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 
 <br/>
 
