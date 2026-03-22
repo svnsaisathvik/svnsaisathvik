@@ -190,9 +190,9 @@ Built at **Synergy24** — an ASR + QA pipeline to preserve indigenous knowledge
 <br/>
 
 <!-- Contribution Heatmap with dates -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/A78BFA/svnsaisathvik" alt="Contribution Heatmap" width="100%" />
-</p>
+</p> -->
 
 <br/>
 
